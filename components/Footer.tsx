@@ -17,7 +17,6 @@ const FooterColumn = ({ title, children }: FooterColumnProps) => {
   )
 }
 
-
 const Footer = () => {
   return (
     <footer className="flexCenter mb-24">
